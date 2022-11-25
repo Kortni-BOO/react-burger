@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.body {
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  width: 1240px;
+}
